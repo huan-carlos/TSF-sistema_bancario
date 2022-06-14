@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+sistema-bancario,com.sistemabancario.model,Banco,27,0,0,0,12,0,9,0,9,0
+sistema-bancario,com.sistemabancario.model,Conta,28,54,2,4,15,17,12,11,10,10
+sistema-bancario,com.sistemabancario.model,Agencia,13,0,0,0,6,0,5,0,5,0
+sistema-bancario,com.sistemabancario.model,Movimentacao,21,30,0,2,9,11,6,6,6,5
+sistema-bancario,com.sistemabancario.model,Util,55,0,4,0,9,0,4,0,2,0
+sistema-bancario,com.sistemabancario.model,Cliente,59,0,2,0,17,0,9,0,8,0
