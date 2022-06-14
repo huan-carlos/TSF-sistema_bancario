@@ -28,7 +28,7 @@ class MovimentacaoTest {
         final long esperado = 1;
         instance.setId(esperado);
         final long obtido = instance.getId();
-        assertEquals(-1, obtido);
+        assertEquals(esperado, obtido);
     }
 
     /**
