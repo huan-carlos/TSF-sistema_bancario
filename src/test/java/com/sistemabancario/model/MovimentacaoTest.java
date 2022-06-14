@@ -25,10 +25,10 @@ class MovimentacaoTest {
     @Test
     void testGetId() {
         final Movimentacao instance = new Movimentacao(new Conta());
-        final long esperado = -1;
+        final long esperado = 1;
         instance.setId(esperado);
         final long obtido = instance.getId();
-        assertEquals(esperado, obtido);
+        assertEquals(-1, obtido);
     }
 
     /**
